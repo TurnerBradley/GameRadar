@@ -1,0 +1,26 @@
+body{
+    background-color:lightblue;
+    text-align: center;
+    
+}
+
+.homeimages{
+    margin: 100px 50px 0px 50px;
+}
+
+.dark-mode{
+    background-color: black;
+    color:white
+}
+
+.Small-font{
+    font-size: 50%;
+}
+
+.Medium-font{
+    font-size: 100%;
+}
+
+.Large-font{
+    font-size: 200%;
+}
